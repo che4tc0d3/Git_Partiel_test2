@@ -1,0 +1,14 @@
+# Environment variables
+.env.production.local
+.env.development.local
+
+# Log files
+*.log
+
+
+# production
+build/
+
+
+
+
